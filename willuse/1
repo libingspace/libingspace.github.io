@@ -1,2 +1,1 @@
-在Build Settings的User-Defined中添加EXTRA_FRONT_END_OPTIONS。值为--no-sound-null-safety
 

@@ -1,7 +1,7 @@
 ---
 layout:       post
 title:        "MAC 升级ruby和cocoapods"
-author:       "Hux"
+author:       "Libing"
 header-style: text
 catalog:      true
 tags:
